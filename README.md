@@ -2,7 +2,7 @@
 
 ---
 
-## 🗡️ ` UNDEAD REGISTRY ` 🗡️
+##  ` UNDEAD REGISTRY ` 
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
@@ -18,7 +18,7 @@
 
 ---
 
-## ⚔️ ` ABILITIES ` ⚔️
+##  ` ABILITIES ` 
 
 <div align="center">
 
@@ -36,7 +36,7 @@
 
 ---
 
-## 🔥 ` BONFIRE REST POINTS ` 🔥
+##  ` BONFIRE REST POINTS ` 
 
 <div align="center">
 
@@ -138,7 +138,7 @@ REWARD:      Red Eye Orb
 
 ---
 
-## 📊 ` SOULS COLLECTION ` 📊
+##  ` SOULS COLLECTION ` 
 
 <div align="center">
 
@@ -149,17 +149,7 @@ REWARD:      Red Eye Orb
 
 ---
 
-## 🗺️ ` WORLD MAP  ` 🗺️
-
-<div align="center">
-
-![mz-ed's github grass](https://raw.githubusercontent.com/mz-ed/github-profile-grass/github-profile-grass/github-profile-grass.svg)
-
-</div>
-
----
-
-## 🌫️ ` THE FOG IS ROLLING IN ` 🌫️
+##  ` FOG AHEAD ` 
 
 <div align="center">
 
