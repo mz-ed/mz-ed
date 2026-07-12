@@ -1,20 +1,4 @@
-![Visitor Count](https://komarev.com/ghpvc/?username=mz-ed&color=darkred&style=for-the-badge&label=HUMANITY+REMNING)
 
----
-
-<br/>
-
-<div align="center">
-
-### 🔥 ` YOU DIED... TO COMMIT  ` 🔥
-
-*Software Engineer in the Making | 4/5*
-
-<br/>
-
-![Estus Flask](https://img.shields.io/badge/ESTUS-FLASK+FULL-orange?style=for-the-badge&logo=flask&logoColor=white)
-
-</div>
 
 ---
 
