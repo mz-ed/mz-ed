@@ -69,7 +69,7 @@
 
 ---
 
-## 📜 ` QUEST LOG (PINNED REPOS) ` 📜
+## 📜 ` QUEST LOG ` 📜
 
 <table>
 <tr>
@@ -154,7 +154,7 @@ REWARD:      Red Eye Orb
 
 ---
 
-## 📊 ` SOUL COLLECTION (GITHUB STATS) ` 📊
+## 📊 ` SOULS COLLECTION ` 📊
 
 <div align="center">
 
@@ -165,7 +165,7 @@ REWARD:      Red Eye Orb
 
 ---
 
-## 🗺️ ` WORLD MAP (CONTRIBUTION GRID) ` 🗺️
+## 🗺️ ` WORLD MAP  ` 🗺️
 
 <div align="center">
 
