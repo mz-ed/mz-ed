@@ -37,8 +37,7 @@ Software Engineer with experience in web development, system design, and various
 ## 💬 Contact
 
 - GitHub: [@mz-ed](https://github.com/mz-ed)
-- LinkedIn: [Your LinkedIn]
-- Email: [your.email@example.com]
+- Email: [mohamedzarifi12@gmail.com]
 
 ---
 *Professional Software Engineer || Building quality software solutions*
